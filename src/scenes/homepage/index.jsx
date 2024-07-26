@@ -1,8 +1,9 @@
+import Navbar from "scenes/navbar";
 
 const HomePage = () => {
     return (
         <div className="">
-            Home Page
+            <Navbar />
         </div>
     )
 };
